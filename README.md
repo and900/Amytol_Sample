@@ -26,7 +26,7 @@ AMYTOL created Library and Sample Code for you to get started
     <br />
 This library is designed to easily access a variety of functionality.
     <br />
-# WIRING AMYTOL_X_ Examples
+# WIRING AMYTOL Examples
 The Ultrasonic sensor uses the provided library NewPing no need for an additional library 
   <br />
 Wiring for the NewPing version of the Ultrasonic device is:
